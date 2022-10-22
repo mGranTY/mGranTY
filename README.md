@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learning 🚀React and ⚡Electron
+### 🌱 I’m currently learning 🚀React
 ### ⚡ Fun fact: Studying law in college 👌
 <!--
 **mGranTY/mGranTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
